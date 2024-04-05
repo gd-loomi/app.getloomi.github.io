@@ -1,6 +1,6 @@
 {
-    "name": "apploomi",
-    "short_name": "apploomi",
+    "name": "loomi",
+    "short_name": "loomi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
